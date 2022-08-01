@@ -1,0 +1,6 @@
+{
+  "status": ["Open", "Processing", "Accepted", "Rejected"],
+  "categories": ["Electronics", "Furniture", "Others"],
+  "name": ["Kivell", "Jardine", "Gill", "Sor'vino", "Jones", "Andrews", "Jardine", "Thompson", "Jones", "Morgan"],
+  "country": ["United Kingdom", "Russia", "German", "Singapore", "Malaysia", "Taiwan", "China"]
+}
